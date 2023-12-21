@@ -22,12 +22,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./screenshots/screenshot1.png)
+![](./screenshots/screenshot2.png)
 
 ### Links
 
 - Solution URL: [Github Repository](https://github.com/adityas-github/Blog-preview-card.git)
-- Live Site URL: [Netlify link](https://your-live-site-url.com)
+- Live Site URL: [Netlify link](https://incandescent-chaja-7f075a.netlify.app/)
 
 ## My process
 
