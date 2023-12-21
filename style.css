@@ -84,6 +84,11 @@ main{
     font-size: 15px;
     font-weight: 900;
 }
+.publish h3:hover{
+    color: hsl(47, 88%, 63%);
+    cursor: pointer;
+
+}
 .attribution { 
     font-size: 11px; 
     text-align: center; 
